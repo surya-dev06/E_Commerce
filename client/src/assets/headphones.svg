@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eff6ff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="500" rx="36" fill="url(#bg)"/>
+  <ellipse cx="300" cy="410" rx="190" ry="28" fill="#94a3b8" opacity=".25"/>
+  <rect x="120" y="90" width="360" height="260" rx="30" fill="#111827"/>
+  <rect x="145" y="115" width="310" height="205" rx="18" fill="#7c3aed"/>
+  <circle cx="300" cy="218" r="48" fill="white" opacity=".12"/>
+  <path d="M210 350h180l42 35H168z" fill="#334155"/>
+  <text x="300" y="455" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#0f172a">Audio</text>
+</svg>

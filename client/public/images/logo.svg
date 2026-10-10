@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 70">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a67d8"/>
+      <stop offset="1" stop-color="#36a9ff"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="43" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#111827">Voltix</text>
+  <text x="2" y="61" font-family="Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="2" fill="url(#g)">TECH FOR A BRIGHTER YOU</text>
+</svg>
